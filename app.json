@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nomad-native-firebase",
+    "slug": "nomad-native-firebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nomad-native-firebase"
+}
