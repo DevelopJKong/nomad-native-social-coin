@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "879979904683",
+    "project_id": "nomad-native-firebase",
+    "storage_bucket": "nomad-native-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879979904683:android:3a407cf519252906fe01ee",
+        "android_client_info": {
+          "package_name": "com.nomad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879979904683-77gqk4ohjf661t2tf6p0eooucjqg1lnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7vs82EoXMhVQe7ZL6nS3XuhdU_pOYGvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879979904683-77gqk4ohjf661t2tf6p0eooucjqg1lnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879979904683:android:cdcd427c2a205df5fe01ee",
+        "android_client_info": {
+          "package_name": "com.nomadnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879979904683-57d5c4fak2pfrta1049l3htl6btdr5mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nomadnativefirebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "879979904683-77gqk4ohjf661t2tf6p0eooucjqg1lnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7vs82EoXMhVQe7ZL6nS3XuhdU_pOYGvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879979904683-77gqk4ohjf661t2tf6p0eooucjqg1lnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
