@@ -6,7 +6,7 @@ const Nav = createNativeStackNavigator();
 
 const OutNav = () => {
   return (
-    <Nav.Navigator>
+    <Nav.Navigator screenOptions={{ headerShown: false }}>
       <Nav.Screen name='Home' component={Home} />
     </Nav.Navigator>
   );
