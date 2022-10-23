@@ -59,7 +59,7 @@ const Join = () => {
       switch (error.code) {
         case 'auth/weak-password':
           {
-            Alert.alert('Write a stronger passwod!');
+            Alert.alert('Write a stronger password!');
           }
           break;
 
